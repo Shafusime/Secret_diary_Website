@@ -11,6 +11,6 @@ $link = mysqli_connect("shareddb-v.hosting.stackcp.net", "secretdiary-3134374246
 
 
 
-
+//hi
 
 ?>
